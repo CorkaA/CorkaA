@@ -37,7 +37,11 @@
     - ⚡ JS | [Сертификат](https://drive.google.com/file/d/1hC0ivO1cIcLO1McvSxrdKQuS-CLVvmQn/view)  
     - 🗃️ SQL | [Сертификат](https://drive.google.com/file/d/1h87lf6cWURzqI9H9WfeEHuX9SOE0Yaj1/view)  
   - **Айтилогия**:  
-    - 🌟 Интенсив Frontend:Start | [Сертификат](https://drive.google.com/file/d/1gzAJMoO8CdkK5TE40spiZOcxiv7GLfdH/view)  
+    - 🌟 Интенсив Frontend:Start | [Сертификат](https://drive.google.com/file/d/1gzAJMoO8CdkK5TE40spiZOcxiv7GLfdH/view)
+- **👩‍💻 На данный момент занимаюсь такими проектами:**
+  - 🔥 Y_Lab - курс «Интенсив React»
+  - 🔥 Clevertec Frontend Lab - марафон "Frontend"
+  - 🔥 Yudaev School - курс по дизайну Figma
 
 
 ### 🌍 Мои резюме:  
