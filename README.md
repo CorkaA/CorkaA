@@ -43,7 +43,6 @@
     - 🎨 Интенсив UX/UI Дизайн | [Сертификат](https://drive.google.com/file/d/1n9UbZWEQHnNjh0qRxCSJtR8wVXPhVJrM/view?usp=drive_link)
 - **👩‍💻 На данный момент занимаюсь такими проектами:**
   - 🔥 Y_Lab - курс «Интенсив React»
-  - 🔥 Clevertec Frontend Lab - марафон "Frontend"
 
 
 ### 🌍 Мои резюме:  
