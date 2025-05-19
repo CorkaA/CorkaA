@@ -25,6 +25,7 @@
 |--------|----------|------------|
 | [Состояние инфраструктуры](https://github.com/CorkaA/state-of-infrastructure) | Разработка представления, отображающего состояние инфраструктуры предприятия. | HTML, CSS, JS, React, API, Figma |
 | [Интенсив React](https://github.com/CorkaA/react-webinar-3/tree/lecture-4-my-branch) | Форк репозитория к курсу «Интенсив React». Разработка сайта - онлайн магазина. | HTML, CSS, JS, React, API |
+| [Дизайнерские макеты в Figma](https://github.com/CorkaA/figma/) | Ознакомление с работой в Figma при участии в интенсиве "UX/UI Дизайн" | Figma |
 | [Приложение "Заметки" для Android](https://github.com/CorkaA/notes) | "Заметки" для Android – создание, редактирование, хранение заметок с возможностью прикрепить изображение. | Xamarin.Forms, C#, XAML, SQLite |
 | [Сайт "Печеньки"](https://corkaa.github.io/cookies/) | Сайт разработан при участии в интенсиве "Frontend:Start". | HTML, CSS, JS, Angular, TS |
 | Система автополива для комнатных растений | Моя выпускная квалификационная работа. Система автополива на базе Arduino с мобильным приложением для управления. Функционал: мониторинг данных с датчиков по TCP, удалённое управление поливом, база данных с информацией о растениях. | Xamarin.Forms, C#, XAML, Arduino |
