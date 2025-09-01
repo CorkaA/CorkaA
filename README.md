@@ -12,9 +12,8 @@
 - Стремлюсь к написанию чистого и адаптивного кода.  
 
 ### **📱 Мобильная разработка**  
-- Разрабатываю мобильные приложения на **C#** и **XAML** в Xamarin.Forms.  
+- Разрабатываю мобильные приложения на **Dart** в Flutter и **C#**, **XAML** в Xamarin.Forms.  
 - Работаю с **SQLite** для локального хранилища в Xamarin.Forms.
-- Разрабатываю мобильные приложения в **Flutter**, **Dart**.  
 
 ### **🛠️ Технологии:**  
 <p align="left">
@@ -24,6 +23,7 @@
 ### **🔥 Мои проекты:**
 | Проект | Описание | Технологии |
 |--------|----------|------------|
+| [UI-kit компонент Tile](https://github.com/CorkaA/Tile) | Разработка UI-kit компонента Tile с нуля для кастомной библиотеки организации. Компонент с возможностью взаимодействия, гибкой компановкой, богатым контентом, выравниванием текста, вариантами размеров основной плитки, с поддержкой разных состояний и доступностью. | Flutter, Dart, Jira, Figma, Golden Test |
 | [Приложение "Интернет-магазин"](https://github.com/CorkaA/Online-store) | Разработка мобильного приложения, в котором отображаются категории магазина, каталог товаров и детали конкретного товара по API. | Flutter, Dart, API |
 | [Состояние инфраструктуры](https://github.com/CorkaA/state-of-infrastructure) | Разработка представления, отображающего состояние инфраструктуры предприятия. | HTML, CSS, JS, React, API, Figma |
 | [Интенсив React](https://github.com/CorkaA/react-webinar-3/tree/lecture-4-my-branch) | Форк репозитория к курсу «Интенсив React». Разработка сайта - онлайн магазина. | HTML, CSS, JS, React, API |
@@ -35,20 +35,21 @@
 ### **🎓 Образование:**  
 - **🎓 Университет**:  
   ФГБОУ ВО «ПГТУ» г.Йошкар-Ола, факультет "Информатика и вычислительная техника".  
-- **📚 Курсы**:  
+- **📚 Курсы**:
+  - **Финам**:
+    - 👩‍💻 Интенсив (IT-Bootcamp) по направлению Flutter | [Сертификат](https://drive.google.com/file/d/1PuXG2Z9EC8VXCWhGHiBk1RHccsOH0oks/view?usp=sharing)
+  - **Yudaev School**
+    - 🎨 Интенсив UX/UI Дизайн | [Сертификат](https://drive.google.com/file/d/1n9UbZWEQHnNjh0qRxCSJtR8wVXPhVJrM/view?usp=drive_link)
+  - **Айтилогия**:  
+    - 🌟 Интенсив Frontend:Start | [Сертификат](https://drive.google.com/file/d/1gzAJMoO8CdkK5TE40spiZOcxiv7GLfdH/view)  
   - **Mimo**:  
     - 📄 HTML | [Сертификат](https://drive.google.com/file/d/1h086EnXkG9DnIhoh3rJB4g2B_OYeNuCM/view)  
     - 🎨 CSS | [Сертификат](https://drive.google.com/file/d/1h1f72U04EZC2JeAlxNxPbj0zGVr6Ur4S/view)  
     - ⚡ JS | [Сертификат](https://drive.google.com/file/d/1hC0ivO1cIcLO1McvSxrdKQuS-CLVvmQn/view)  
     - 🗃️ SQL | [Сертификат](https://drive.google.com/file/d/1h87lf6cWURzqI9H9WfeEHuX9SOE0Yaj1/view)  
-  - **Айтилогия**:  
-    - 🌟 Интенсив Frontend:Start | [Сертификат](https://drive.google.com/file/d/1gzAJMoO8CdkK5TE40spiZOcxiv7GLfdH/view)  
-  - **Yudaev School**
-    - 🎨 Интенсив UX/UI Дизайн | [Сертификат](https://drive.google.com/file/d/1n9UbZWEQHnNjh0qRxCSJtR8wVXPhVJrM/view?usp=drive_link)
-
 
 ### 🌍 Мои резюме:  
-[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/1524bc46ff0dc66bf10039ed1f7179724e4461) - Разработчик мобильных приложений   
+[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/1524bc46ff0dc66bf10039ed1f7179724e4461) - Flutter-разработчик   
 [![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/26ed221fff0e0821b70039ed1f5050456e5559) - Frontend-разработчик  
 
 
