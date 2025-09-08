@@ -38,7 +38,7 @@
 - **📚 Курсы**:
   - **Финам**:
     - 👩‍💻 Интенсив (IT-Bootcamp) по направлению Flutter | [Сертификат](https://drive.google.com/file/d/1PuXG2Z9EC8VXCWhGHiBk1RHccsOH0oks/view?usp=sharing)
-  - **Yudaev School**
+  - **Yudaev School**:
     - 🎨 Интенсив UX/UI Дизайн | [Сертификат](https://drive.google.com/file/d/1n9UbZWEQHnNjh0qRxCSJtR8wVXPhVJrM/view?usp=drive_link)
   - **Айтилогия**:  
     - 🌟 Интенсив Frontend:Start | [Сертификат](https://drive.google.com/file/d/1gzAJMoO8CdkK5TE40spiZOcxiv7GLfdH/view)  
@@ -49,7 +49,7 @@
     - 🗃️ SQL | [Сертификат](https://drive.google.com/file/d/1h87lf6cWURzqI9H9WfeEHuX9SOE0Yaj1/view)  
 
 ### 🌍 Мои резюме:  
-[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/1524bc46ff0dc66bf10039ed1f7179724e4461) - Flutter-разработчик   
+[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/1524bc46ff0dc66bf10039ed1f7179724e4461) - Flutter-разработчик     
 [![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?logo=headhunter)](https://yoshkar-ola.hh.ru/resume/26ed221fff0e0821b70039ed1f5050456e5559) - Frontend-разработчик  
 
 
