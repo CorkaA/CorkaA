@@ -17,12 +17,13 @@
 
 ### **🛠️ Технологии:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,webpack,cs,dotnet,sqlite,arduino,figma,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,dotnet,sqlite,arduino,figma,flutter,dart" />
 </p>
 
 ### **🔥 Мои проекты:**
 | Проект | Описание | Технологии |
 |--------|----------|------------|
+| Учёт личных финансов | Разработка 1С конфигурации для учёта личных финансов. | 1С: Предприятие |
 | [UI-kit компонент Tile](https://github.com/CorkaA/Tile) | Разработка UI-kit компонента Tile с нуля для кастомной библиотеки организации. Компонент с возможностью взаимодействия, гибкой компановкой, богатым контентом, выравниванием текста, вариантами размеров основной плитки, с поддержкой разных состояний и доступностью. | Flutter, Dart, Jira, Figma, Golden Test |
 | [Приложение "Интернет-магазин"](https://github.com/CorkaA/Online-store) | Разработка мобильного приложения, в котором отображаются категории магазина, каталог товаров и детали конкретного товара по API. | Flutter, Dart, API |
 | [Состояние инфраструктуры](https://github.com/CorkaA/state-of-infrastructure) | Разработка представления, отображающего состояние инфраструктуры предприятия. | HTML, CSS, JS, React, API, Figma |
@@ -36,6 +37,8 @@
 - **🎓 Университет**:  
   ФГБОУ ВО «ПГТУ» г.Йошкар-Ола, факультет "Информатика и вычислительная техника".  
 - **📚 Курсы**:
+  - **Нетология**:
+    - 📋 Ознакомительный курс 1С-разработчик | [Сертификат](https://drive.google.com/file/d/1j7yBlZJz7pOzd38mkWHMS7bQBn9SKqcE/view?usp=sharing)
   - **Финам**:
     - 👩‍💻 Интенсив (IT-Bootcamp) по направлению Flutter | [Сертификат](https://drive.google.com/file/d/1PuXG2Z9EC8VXCWhGHiBk1RHccsOH0oks/view?usp=sharing)
   - **Yudaev School**:
