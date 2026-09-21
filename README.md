@@ -40,7 +40,7 @@
 | [Сайт "Вязаные игрушки" (в работе)](https://github.com/CorkaA/) | Самописный сайт для демонстрации моих вязаных изделий. | HTML5, CSS3, JavaScript (ES6, Fetch API), JSON, npoint.io, pen.dev (design) |
 | [Состояние инфраструктуры](https://github.com/CorkaA/state-of-infrastructure) | Веб-приложение для мониторинга инфраструктуры предприятия: макет, адаптивная верстка, вывод графиков по REST API. | HTML, CSS, JS, React, REST API, Figma |
 | [Интенсив React (Онлайн-магазин)](https://github.com/CorkaA/react-webinar-3/tree/lecture-4-my-branch) | SPA-приложение интернет-магазина с каталогом товаров, состоянием корзины и запросами к API. | HTML, CSS, JS, React, REST API |
-| [Сайт "Печеньки"](https://corkaa.github.io/cookies/) | Проект для практики Angular и TypeScript, отладка и доработка . | HTML, CSS, JS, Angular, TS |
+| [Сайт "Печеньки"](https://corkaa.github.io/cookies/) | Проект для практики Angular и TypeScript, отладка и доработка. | HTML, CSS, JS, Angular, TS |
 
 #### 📱 Mobile
 | Проект | Описание | Технологии |
