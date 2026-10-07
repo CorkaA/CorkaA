@@ -22,7 +22,7 @@
 
 **Frontend & Web:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,angular,git,github,figma,vscode,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,php,ts,react,angular,vscode,phpstorm" />
 </p>
 
 **Mobile & Additional:**
