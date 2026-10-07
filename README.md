@@ -37,10 +37,11 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [Сайт "Вязаные игрушки" (в работе)](https://github.com/CorkaA/) | Самописный сайт для демонстрации моих вязаных изделий. | HTML5, CSS3, JavaScript (ES6, Fetch API), JSON, npoint.io, pen.dev (design) |
-| [Блок "Карточка товара"](https://corkaa.github.io/teaboom/) ([репо:](https://github.com/CorkaA/teaboom))| Редизайн и вёрстка блока карточки товара для Teaboom.ru. | HTML5, CSS3, JavaScript (ES6, Fetch API), JSON, pen.dev (design) |
+| [Сервис прогноза погоды](https://github.com/CorkaA/weather-app) ([демо](https://corkaa.github.io/weather-app/))| Вёрстка главного экрана погодного приложения: хедер с поиском, блок текущей погоды и сетка карточек прогноза. Реализованы состояния поля поиска. |  HTML5, CSS3 (БЭМ, Flexbox, Grid), JavaScript (ES6, DOM), Figma |
+| [Блок "Карточка товара"](https://github.com/CorkaA/teaboom) ([демо](https://corkaa.github.io/teaboom/))| Редизайн и вёрстка блока карточки товара для Teaboom.ru. | HTML5, CSS3, JavaScript (ES6, Fetch API), JSON, pen.dev (design) |
 | [Состояние инфраструктуры](https://github.com/CorkaA/state-of-infrastructure) | Веб-приложение для мониторинга инфраструктуры предприятия: макет, адаптивная верстка, вывод графиков по REST API. | HTML, CSS, JS, React, REST API, Figma |
 | [Интенсив React (Онлайн-магазин)](https://github.com/CorkaA/react-webinar-3/tree/lecture-4-my-branch) | SPA-приложение интернет-магазина с каталогом товаров, состоянием корзины и запросами к API. | HTML, CSS, JS, React, REST API |
-| [Сайт "Печеньки"](https://corkaa.github.io/cookies/) | Проект для практики Angular и TypeScript, отладка и доработка. | HTML, CSS, JS, Angular, TS |
+| [Сайт "Печеньки" (демо)](https://corkaa.github.io/cookies/) | Проект для практики Angular и TypeScript, отладка и доработка. | HTML, CSS, JS, Angular, TS |
 
 #### 📱 Mobile
 | Проект | Описание | Технологии |
